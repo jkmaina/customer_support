@@ -1,0 +1,7 @@
+pytest
+pytest-asyncio
+langchain
+python-dotenv
+langgraph
+langchain_openai
+setuptools
